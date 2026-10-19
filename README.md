@@ -1,2 +1,7 @@
-# nhap-mon-cnpm-practice
-thuc hanh cho hoc phan cong nghe phan mem
+# Repository Thực hành - Nhập môn CNPM
+
+Xin chào! Đây là lần đầu tiên tôi sử dụng Git và GitHub.
+
+## Thông tin sinh viên
+- **Họ và tên:** Cao Tiến Khang
+- **Mã số sinh viên:** 25S1020051
